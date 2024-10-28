@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashashkr" alt="yashashkr" /></a> </p>
 
-- Hi , I'm working on **Mini poject**
+- Hi , I'm working on **CV projects**
 
 - 🌱 I’m currently learning **Full stack development**
 
