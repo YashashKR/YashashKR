@@ -10,6 +10,8 @@
 
 - Hi , I'm working on **CV projects**
 
+- Am an **AI Enthusiast !!**
+
 - 🌱 I’m currently learning **Full stack development**
 
 - 📫 How to reach me **yashashkr24@gmail.com**
