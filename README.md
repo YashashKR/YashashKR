@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 📫 How to reach me **yashashkr24@gmail.com**
+- 📫 How to reach me **yashuyashash24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
