@@ -174,5 +174,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashashkr&show_icons=true&locale=en" alt="yashashkr" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+</picture>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashashkr&" alt="yashashkr" /></p>
 
